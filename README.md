@@ -1,5 +1,5 @@
 # BERT-Relation-Classification
-BERT-Relation-Classification pytorch implementation
+Pytorch implmentation for [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284).
 
 ## Requirements
 ```
@@ -37,3 +37,10 @@ Run example on ATIS dataset.
 python3 predict.py --task_name SemEval
 ```
 
+### Results
+
+
+|Dataset        |Accuracy |macro F1 score |
+|-------------|------------|------------|
+|SemEval |   09.67  | 81.80     |
+|Snips|     97.69 |  78.79 |

@@ -3,7 +3,7 @@ BERT-Relation-Classification pytorch implementation
 
 ## Requirements
 ```
-Python3
+Python3.x
 transformers==3.1.0
 torch==1.6.1+
 argparse==1.4.0

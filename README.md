@@ -46,4 +46,5 @@ python3 predict.py --task_name SemEval
 |Snips|     97.69 |  78.79 |
 
 The result on SemEval is evaluated with bidirectional relation (18 relations) macro F1 score.
-The author use SemEval-2010 Task 8 official scorer script which eventually calculate unidirectional relation (9 relations) macro F1 score.
+
+While the author use SemEval-2010 Task 8 official scorer script which eventually calculate unidirectional relation (9 relations) macro F1 score.

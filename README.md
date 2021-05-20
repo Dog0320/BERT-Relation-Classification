@@ -42,5 +42,5 @@ python3 predict.py --task_name SemEval
 
 |Dataset        |Accuracy |macro F1 score |
 |-------------|------------|------------|
-|SemEval |   09.67  | 81.80     |
+|SemEval |   90.67  | 81.80     |
 |Snips|     97.69 |  78.79 |
